@@ -4,7 +4,7 @@ The list of contributors to the REANA platform source code, the REANA project
 web site, the REANA blog and documentation web sites, and the REANA analysis
 examples that are hosted in the source code repositories under the REANA
 organisation on GitHub, in alphabetical order:
-
+dummy commit
 - [Adelina Lintuluoto](https://orcid.org/0000-0002-0726-1452)
 - [Agisilaos Kounelis](https://orcid.org/0000-0001-9312-3189)
 - [Alastair Lyall](https://orcid.org/0009-0000-4955-8935)

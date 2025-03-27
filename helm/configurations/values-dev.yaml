@@ -26,3 +26,12 @@ components:
       image: docker.io/reanahub/reana-message-broker
     reana_ui:
       image: docker.io/reanahub/reana-ui
+
+kubernetes_jobs_cpu_request: 1
+kubernetes_jobs_max_user_cpu_request: 2
+kubernetes_jobs_cpu_limit: 2
+kubernetes_jobs_max_user_cpu_limit: 4
+kubernetes_jobs_memory_request: 1Gi
+kubernetes_jobs_max_user_memory_request: 2Gi:
+kubernetes_jobs_memory_limit: 2Gi
+kubernetes_jobs_max_user_memory_limit: 4Gi
